@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/2-groups
+groups root
