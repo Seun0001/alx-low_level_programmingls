@@ -1,2 +1,0 @@
-Alx-system_engineering-devops
-Shell_permissions
