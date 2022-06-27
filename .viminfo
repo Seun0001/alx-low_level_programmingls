@@ -15,9 +15,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1655997708,,"wq"
+|2,0,1656328764,,"wq"
 :q
-|2,0,1655987591,,"q"
+|2,0,1656327831,,"q"
 :.!
 |2,0,1655985429,,".!"
 
@@ -41,230 +41,360 @@ $
 |3,0,36,0,1,0,1655982483,"s"
 
 # File marks:
-'0  2  14  ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,48,2,14,1655997708,"~/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
-'1  2  10  ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
-|4,49,2,10,1655997551,"~/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
-'2  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,50,2,16,1655997352,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
-'3  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,51,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
-'4  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,52,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
-'5  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,53,1,16,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
-'6  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,54,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
-'7  2  7  ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-|4,55,2,7,1655996177,"~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty"
-'8  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,56,2,16,1655996095,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
-'9  1  0  ~/alx-system_engineering-devops/0x00-shell_permissions/0-iam_betty
-|4,57,1,0,1655995723,"~/alx-system_engineering-devops/0x00-shell_permissions/0-iam_betty"
+'0  2  14  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+|4,48,2,14,1656328764,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
+'1  2  18  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,49,2,18,1656328359,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'2  2  17  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,50,2,17,1656328293,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'3  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,51,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'4  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,52,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'5  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,53,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'6  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,54,1,29,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'7  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,55,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'8  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,56,1,29,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'9  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,57,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
 
 # Jumplist (newest first):
--'  2  14  ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1655997708,"~/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,1,0,1655997687,"~/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  10  ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
-|4,39,2,10,1655997551,"~/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
--'  2  10  ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
-|4,39,2,10,1655997551,"~/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
-|4,39,1,0,1655997518,"~/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
-|4,39,1,0,1655997518,"~/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
--'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1655997352,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1655997352,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1655997352,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1655997352,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1655997288,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1655997288,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1655997288,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1655997288,"~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,2,5,1655997152,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-|4,39,1,0,1655997119,"~/alx-system_engineering-devops/0x01-shell_permissions/2-groups"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655997012,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  16  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,16,1655996988,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,2,5,1655996921,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,39,1,0,1655996819,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
--'  2  7  ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-|4,39,2,7,1655996177,"~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty"
--'  2  7  ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-|4,39,2,7,1655996177,"~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty"
--'  2  7  ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-|4,39,2,7,1655996177,"~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty"
--'  2  7  ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-|4,39,2,7,1655996177,"~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty"
--'  2  7  ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-|4,39,2,7,1655996177,"~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty"
--'  2  7  ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-|4,39,2,7,1655996177,"~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty"
+-'  2  14  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+|4,39,2,14,1656328764,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+|4,39,1,0,1656328670,"~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley"
+-'  2  18  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656328359,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656328359,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1656328298,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1656328298,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  17  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656328293,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656328293,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656328293,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656328293,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,0,1656328257,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,0,1656328257,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,0,1656328257,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,0,1656328257,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327940,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1656327930,"/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  17  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,17,1656327876,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  29  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,29,1656327843,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  18  /alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,2,18,1656327831,"/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
+|4,39,2,16,1656322976,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
+-'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
+|4,39,2,16,1656322976,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
+-'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
+|4,39,2,16,1656322976,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
+-'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
+|4,39,2,16,1656322976,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
+-'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
+|4,39,2,16,1656322976,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
+-'  2  16  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
+|4,39,2,16,1656322976,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
+	*	1656328761	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+	*	1656328352	0
+	"	2	18
+	^	2	19
+	.	3	0
+	+	3	0
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+	*	1656328290	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> /alx-system_engineering-devops/0x02-shell_redirections/README.md
+	*	1656327937	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	1	11
+	+	2	17
+
+> /alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+	*	1656327927	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
+	*	1656322974	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+	*	1656002662	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+	*	1656002449	0
+	"	2	33
+	^	2	34
+	.	2	33
+	+	2	33
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+	*	1656002226	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+	*	1656001621	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	1	11
+	+	2	20
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+	*	1656000878	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+	*	1656000640	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+	*	1656000362	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+	*	1655999515	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	29
+	+	1	11
+	+	2	28
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe
+	*	1655998651	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+	*	1655998509	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/7-everybody
+	*	1655998337	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+	*	1655998137	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
 
 > ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
 	*	1655997706	0
@@ -312,13 +442,6 @@ $
 	.	2	7
 	+	1	11
 	+	2	7
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-	*	1655996093	0
-	"	2	16
-	^	2	17
-	.	2	16
-	+	2	16
 
 > ~/alx-system_engineering-devops/0x00-shell_permissions/0-iam_betty
 	*	1655995721	0
