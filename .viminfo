@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1657815346,,"wq"
+|2,0,1657817254,,"wq"
 :q!
 |2,0,1657803678,,"q!"
 :q
@@ -58,34 +58,40 @@ $
 |3,1,36,0,1,0,1656608226," Korpar"
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1657815346,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
-|4,49,1,0,1657807321,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
-'2  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
-|4,50,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
-'3  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
-|4,51,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
-'4  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,52,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
-'5  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,53,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+'0  1  4  ~/.git/COMMIT_EDITMSG
+|4,48,1,4,1657817254,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1657815346,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
+|4,50,1,0,1657807321,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
+'3  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,51,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+'4  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,52,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+'5  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,53,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
 '6  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
 |4,54,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
-'7  1  13  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
-|4,55,1,13,1657804434,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
-'8  4  9  ~/alx-low_level_programming/0x06-pointers_arrays_strings/.gitignore
-|4,56,4,9,1657804192,"~/alx-low_level_programming/0x06-pointers_arrays_strings/.gitignore"
-'9  211  0  ~/.viminfo
-|4,57,211,0,1657803678,"~/.viminfo"
+'7  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,55,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+'8  1  13  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
+|4,56,1,13,1657804434,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
+'9  4  9  ~/alx-low_level_programming/0x06-pointers_arrays_strings/.gitignore
+|4,57,4,9,1657804192,"~/alx-low_level_programming/0x06-pointers_arrays_strings/.gitignore"
 
 # Jumplist (newest first):
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1657817254,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1657815346,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
 |4,39,1,0,1657807321,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
 |4,39,1,0,1657807321,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1657807321,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1657807321,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c"
 -'  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
 |4,39,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
 -'  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
@@ -94,6 +100,22 @@ $
 |4,39,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
 -'  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
 |4,39,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  2  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,2,0,1657807171,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,1,0,1657807094,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,1,0,1657807094,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,1,0,1657807094,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
+|4,39,1,0,1657807094,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
 |4,39,1,0,1657807094,"~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-main.c
@@ -118,6 +140,38 @@ $
 |4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
 -'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
 |4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  5  42  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,5,42,1657807045,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
+|4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
 |4,39,1,0,1657806962,"~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/_putchar.c
@@ -166,6 +220,38 @@ $
 |4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
 -'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
 |4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
+-'  20  17  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
+|4,39,20,17,1657806933,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
 |4,39,1,0,1657806901,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
@@ -194,101 +280,15 @@ $
 |4,39,1,0,1657806901,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
 -'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
 |4,39,1,0,1657806901,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657806901,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657806901,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  11  24  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,11,24,1657804557,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
--'  1  0  ~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-|4,39,1,0,1657804537,"~/alx-low_level_programming/0x06-pointers_arrays_strings/main.h"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1657815343	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
+	*	1657817252	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/alx-low_level_programming/0x06-pointers_arrays_strings/0-strcat.c
 	*	1657807318	0
